@@ -1,0 +1,12 @@
+.app__footer {
+  border-top: 1px solid #d8d8d8;
+  margin-top: 20px;
+  padding: 10px 10px 40px 30px;
+}
+
+.app__footer p {
+  color: grey;
+  text-align: right;
+  font-size: small;
+  letter-spacing: 0.1em;
+}

@@ -1,0 +1,12 @@
+.article {
+  width: 100%;
+  margin-right: 15px;
+  margin-top: 5vh;
+}
+.article__content span {
+  font-weight: bolder;
+  color: grey;
+}
+.article__content p {
+  font-size: smaller;
+}

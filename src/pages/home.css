@@ -1,0 +1,17 @@
+.app__container {
+  margin: 0 auto;
+  width: 80%;
+}
+.app__body {
+  margin: 5vh 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.app__news_article {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  margin-top: 7vh;
+  justify-content: space-between;
+}
